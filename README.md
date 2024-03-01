@@ -1,3 +1,1 @@
-echo # kitchenCompanion
-# kitchenCompanion
-# kitchenCompanion
+Group Project for CMSC434
